@@ -1,0 +1,7 @@
+Please show what's in the other file. And have you read this? – jtbandes Jul 20 '11 at 4:59
+  	 	
+This shouldn't even parse -- your indentation is wrong and even the casing differs from one place to another. – Chris Eberle Jul 20 '11 at 5:13
+  	 	
+It runs, i added a couple indents by mistake when copying from textmate. fixed it in the last edit – Capkutay Jul 20 '11 at 5:30
+  	 	
+thanks jtbandes i've read the python documentation – Capkutay Jul 20 '11 at 5:31
